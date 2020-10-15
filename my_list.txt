@@ -1,0 +1,5 @@
+"drone"
+"propellors"
+"batteries"
+"transmitter"
+"FPV Goggles"
